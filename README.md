@@ -1,4 +1,4 @@
-# rocketsear-curso-es6
+# rocketseat-curso-es6
 An short application to get information from GitHub's API. 
 
 Here, you can type a repository's name (following the template -  "userName/repositoryName"), and the program will return:
